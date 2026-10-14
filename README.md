@@ -207,11 +207,9 @@ learning = {
 <div align="left">
 
 [![GitHub](https://img.shields.io/badge/GitHub-iqbalDt-0a0f0d?style=flat-square&logo=github&logoColor=10b981)](https://github.com/iqbalDt)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-iqbal--dinata-0a0f0d?style=flat-square&logo=linkedin&logoColor=10b981)](https://linkedin.com/in/iqbal-dinata)
+[![Instagram](https://img.shields.io/badge/Instagram-iqbaal.dt-0a0f0d?style=flat-square&logo=instagram&logoColor=10b981)](https://instagram.com/iqbaal.dt)
 [![Email](https://img.shields.io/badge/Email-iqbaldinata12345%40gmail.com-0a0f0d?style=flat-square&logo=gmail&logoColor=10b981)](mailto:iqbaldinata12345@gmail.com)
-
-<!-- Add LinkedIn or other profiles when ready:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-your--handle-0a0f0d?style=flat-square&logo=linkedin&logoColor=10b981)](https://linkedin.com/in/YOUR_HANDLE)
--->
 
 </div>
 
