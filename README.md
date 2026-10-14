@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
   <img src="header.svg" alt="Iqbal Pahargja Dinata - Building Software · Exploring AI" width="100%"/>
 </div>
 
@@ -136,8 +136,6 @@ Interests │  Software Development · Artificial Intelligence · DevOps · Auto
     </td>
   </tr>
 </table>
-
-> **Note:** Repository links above are based on your GitHub username `iqbalDt`. Update any link where the actual repo name differs from the placeholder slug used here.
 
 <br/>
 
